@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Vadym
 
-<!--
-**TopVV/TopVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Frontend/Product Engineer with 6 years of experience building
+customer-facing web products with React and TypeScript.
 
-Here are some ideas to get you started:
+### Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React, TypeScript, Next.js, Remix
+- Complex product UI and frontend architecture
+- Performance and accessibility
+- Testing and production delivery
+- REST APIs and real-time interfaces
+- Growing into Node.js and PostgreSQL
+
+### Projects
+
+**OrbitOps** — B2B SaaS customer operations dashboard  
+Next.js, TypeScript, TanStack Query, MUI, React Hook Form, Zod
+
+**Veilbound** — Gothic browser RPG  
+React, TypeScript
+
+[LinkedIn](https://www.linkedin.com/in/topvv/)
