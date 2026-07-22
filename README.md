@@ -10,14 +10,14 @@ customer-facing web products with React and TypeScript.
 - Performance and accessibility
 - Testing and production delivery
 - REST APIs and real-time interfaces
-- Growing into Node.js and PostgreSQL
+- Expanding into Node.js and PostgreSQL
 
 ### Projects
 
-**OrbitOps** — B2B SaaS customer operations dashboard  
+**[OrbitOps](https://github.com/TopVV/orbitops)** — B2B SaaS customer operations dashboard  
 Next.js, TypeScript, TanStack Query, MUI, React Hook Form, Zod
 
-**Veilbound** — Gothic browser RPG  
+**[Veilbound](https://github.com/TopVV/veilbound)** — Gothic browser RPG  
 React, TypeScript
 
 [LinkedIn](https://www.linkedin.com/in/topvv/)
