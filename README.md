@@ -1,23 +1,41 @@
 # Hi, I'm Vadym
 
-Senior Frontend/Product Engineer with 6 years of experience building
-customer-facing web products with React and TypeScript.
+Senior Front-End / Product Engineer focused on building complex web products
+with React, TypeScript and Next.js.
 
-### Focus
+I work across SaaS interfaces, frontend architecture, customer-facing
+applications and AI-enabled product workflows.
 
-- React, TypeScript, Next.js, Remix
-- Complex product UI and frontend architecture
-- Performance and accessibility
-- Testing and production delivery
-- REST APIs and real-time interfaces
-- Expanding into Node.js and PostgreSQL
+## Selected work
 
-### Projects
+### VerityFlow
+AI-assisted review workspace with structured analysis, evidence signals,
+streaming AI and human-in-the-loop decisions.
 
-**[OrbitOps](https://github.com/TopVV/orbitops)** — B2B SaaS customer operations dashboard  
-Next.js, TypeScript, TanStack Query, MUI, React Hook Form, Zod
+[Live demo](https://verity-flow-phi.vercel.app/queue) ·
+[Source](https://github.com/TopVV/verity-flow)
 
-**[Veilbound](https://github.com/TopVV/veilbound)** — Gothic browser RPG  
-React, TypeScript
+### OrbitOps
+B2B SaaS operations dashboard for customer health, recurring revenue and
+operational workflows.
+
+[Live demo](https://orbitops-pied.vercel.app/) ·
+[Source](https://github.com/TopVV/orbitops)
+
+### Provia
+Responsive professional-services marketplace with availability-aware search
+and an end-to-end booking flow.
+
+[Live demo](https://provia-murex.vercel.app/) ·
+[Source](https://github.com/TopVV/provia)
+
+## Core stack
+
+React · TypeScript · Next.js · JavaScript · TanStack Query ·
+React Hook Form · Zod · Testing · Accessibility
+
+## Portfolio
+
+[View my portfolio](https://portfolio-topaz-theta-47.vercel.app/)
 
 [LinkedIn](https://www.linkedin.com/in/topvv/)
